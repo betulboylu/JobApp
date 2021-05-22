@@ -1,0 +1,24 @@
+2021-05-22 19:41:51,044 INFO flask.app MainThread : "Table Job created."
+2021-05-22 19:42:12,560 INFO flask.app MainThread : "New record inserted."
+2021-05-22 19:42:12,564 INFO flask.app MainThread : "All records selected."
+2021-05-22 19:42:17,377 INFO flask.app MainThread : "New record inserted."
+2021-05-22 19:42:17,379 INFO flask.app MainThread : "All records selected."
+2021-05-22 19:42:20,900 INFO flask.app MainThread : "New record inserted."
+2021-05-22 19:42:20,902 INFO flask.app MainThread : "All records selected."
+2021-05-22 19:42:45,242 DEBUG asyncio MainThread : Using selector: SelectSelector
+2021-05-22 19:42:45,272 INFO flask.app MainThread : "All records selected."
+2021-05-22 19:44:18,594 INFO flask.app MainThread : "All records selected."
+2021-05-22 19:44:31,818 INFO flask.app MainThread : "Record updated."
+2021-05-22 19:44:31,823 INFO flask.app MainThread : "All records selected."
+2021-05-22 19:44:55,141 INFO flask.app MainThread : "All records selected."
+2021-05-22 19:44:59,439 ERROR flask.app MainThread : ('42S22', "[42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'aa'. (207) (SQLExecDirectW)")
+2021-05-22 19:45:54,730 INFO flask.app MainThread : "All records selected."
+2021-05-22 19:45:56,622 ERROR flask.app MainThread : ('42S22', "[42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'mm'. (207) (SQLExecDirectW)")
+2021-05-22 19:46:20,830 INFO flask.app MainThread : "All records selected."
+2021-05-22 19:47:29,789 INFO flask.app MainThread : "All records selected."
+2021-05-22 19:47:40,113 INFO flask.app MainThread : "All records selected."
+2021-05-22 19:47:41,699 ERROR flask.app MainThread : ('42S22', "[42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'gggg'. (207) (SQLExecDirectW)")
+2021-05-22 20:02:22,764 INFO flask.app MainThread : "All records selected."
+2021-05-22 20:03:52,371 INFO flask.app MainThread : "All records selected."
+2021-05-22 20:03:55,222 INFO flask.app MainThread : "Record deleted."
+2021-05-22 20:03:55,225 INFO flask.app MainThread : "All records selected."
